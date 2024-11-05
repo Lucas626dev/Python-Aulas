@@ -1,2 +1,2 @@
 #Python-Aulas
-salvando alguns conteudos da aula de python caso necessario.
+#salvando alguns conteudos da aula de python caso necessario.
